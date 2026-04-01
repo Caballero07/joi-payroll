@@ -9,7 +9,7 @@ import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, 
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { Search, Upload, Plus, Trash2 } from "lucide-react";
+import { Search, Upload, Plus, Trash2, Download } from "lucide-react";
 import { toast } from "sonner";
 import { useNavigate } from "react-router-dom";
 
